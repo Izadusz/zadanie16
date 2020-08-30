@@ -1,0 +1,42 @@
+body {
+    background-color: gray;
+}
+h1 {
+    color: white;
+}
+.square1 {
+    width: 200px;
+    height: 200px;
+    position: relative; left: 20px;
+    background-color: #fea500;
+}
+.square11 {
+    background-color: grey;
+    height: 10px;
+}
+.square2 {
+    width: 200px;
+    height: 200px;
+    position: relative; left: 20px;
+    background-color: #fea500;
+}
+.square22 {
+    background-color: grey;
+    height: 10px;
+}
+.square3 {
+    width: 200px;
+    height: 200px;
+    position: relative; left: 20px;
+    background-color: #fea500;
+}
+.square33 {
+    background-color: grey;
+    height: 10px;
+}
+.square4 {
+    width: 200px;
+    height: 200px;
+    position: relative; left: 20px;
+    background-color: #fea500;
+}
